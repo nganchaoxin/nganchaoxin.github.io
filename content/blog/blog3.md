@@ -4,7 +4,7 @@ title: "5 Best Ways To Sell ML"
 tags: ["ml", "ai", "startups"]
 
 date: 2020-05-12T16:11:56-07:00
-draft: false
+draft: true
 ---
 
 Pellentesque dapibus nec velit sit amet venenatis. Nam mauris elit, feugiat vitae massa a, scelerisque pretium justo. Aliquam eu quam suscipit, gravida dolor auctor, porttitor risus. Integer at dui blandit, scelerisque nunc vel, gravida neque. Vivamus at nisi lacinia, bibendum ipsum a, dignissim nibh. Ut urna eros, consequat ut tristique id, egestas non lectus. Cras placerat condimentum orci, et cursus tortor tempus in. Aenean sodales leo sed scelerisque molestie. Duis tempus lectus sed velit fermentum, quis auctor dolor mattis. Donec ipsum risus, luctus eget justo facilisis, egestas cursus arcu. Curabitur et nibh lectus. Cras a dignissim nisi.

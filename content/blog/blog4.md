@@ -5,7 +5,7 @@ tags: [ "deep_learning", "neural_networks", "ai"]
 
 
 date: 2021-01-11T16:12:29-07:00
-draft: false
+draft: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget dui justo. Sed bibendum sollicitudin neque, et iaculis ligula dapibus eget. Etiam faucibus augue non posuere blandit. Phasellus ex ex, ultricies quis eleifend vel, imperdiet a felis. Sed ipsum velit, ullamcorper nec lacus fermentum, ullamcorper sagittis libero. Pellentesque hendrerit quam eget nunc ullamcorper mattis. Etiam sed nisi ac ipsum semper interdum. Nunc vulputate vitae nibh vitae convallis. Cras in ante arcu. Aliquam tincidunt rhoncus lorem, at porta nibh vehicula ut. Aenean laoreet, nibh in ullamcorper luctus, purus neque sollicitudin velit, vitae euismod odio orci quis erat. Nam cursus lorem et velit pulvinar, sagittis blandit odio cursus. Ut non bibendum ligula. Nam interdum, augue sed commodo mollis, est ante luctus ipsum, in convallis sapien velit ac libero. Fusce vitae ante ac leo commodo semper a id justo.
